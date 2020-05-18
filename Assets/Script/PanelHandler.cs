@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class PanelHandler : MonoBehaviour
 {
+    
     // Cool
     
     public GameObject[] panel;
